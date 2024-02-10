@@ -17,7 +17,7 @@ In this repository I will upload data science contents and assignments
 1. Assignment Solution - Integers, Floats and Booleans : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Integers%2C_Floats_and_Booleans.ipynb
 2. Assignment_Solution_Introduction_to_Strings : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Introduction_to_Strings.ipynb
 3. Assignment Solution - Introduction to Lists : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Introduction_to_Lists.ipynb
-4. Assignment_Solution_Tuples,_Sets_and_Dictionaries.ipynb : Assignment_Solution_Tuples,_Sets_and_Dictionaries.ipynb
+4. Assignment_Solution_Tuples,_Sets_and_Dictionaries.ipynb : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Tuples%2C_Sets_and_Dictionaries.ipynb
 5. Assignment_Solution_Statements,_Indentation_and_Conditionals.ipynb : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Statements%2C_Indentation_and_Conditionals.ipynb
 
 
