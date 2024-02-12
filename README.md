@@ -45,4 +45,28 @@ In this repository I will upload data science contents and assignments
 
 
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+## Numerical Programming in Python (Numpy,Pandas,EDA)
+
+### content
+1. Introduction_to_Numpy : https://github.com/DeviArya/Data-Science/blob/main/Introduction_to_Numpy.ipynb
+2. NumPy_Operations : https://github.com/DeviArya/Data-Science/blob/main/NumPy_Operations.ipynb
+3. Introduction_to_Pandas : https://github.com/DeviArya/Data-Science/blob/main/Introduction_to_Pandas.ipynb
+4. Pandas_Operations : https://github.com/DeviArya/Data-Science/blob/main/Pandas_Operations.ipynb
+5. Introduction_to_Data_Visualization : https://github.com/DeviArya/Data-Science/blob/main/Introduction_to_Data_Visualization.ipynb
+6. 
+
+### Assignment
+1. Assignment_Solution_Introduction_to_NumPy : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Introduction_to_NumPy.ipynb
+2. Assignment_Solution_NumPy_Operations : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_NumPy_Operations.ipynb
+3. Assignment_Solution_Introduction_to_Pandas : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Introduction_to_Pandas.ipynb
+4. Assignment_Solution_Pandas_Operations : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Pandas_Operations.ipynb (Data set : https://drive.google.com/drive/folders/1EaOr6hdRDkEvy31ABSnH3iyClM4tRmS1?usp=drive_link)
+5. 
+
+### Project 
+
+
 
