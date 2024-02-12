@@ -15,9 +15,7 @@ In this repository I will upload data science contents and assignments
 8. List_Comprehension : https://github.com/DeviArya/Data-Science/blob/main/List_Comprehension.ipynb
 9. Functions_&_Methods : https://github.com/DeviArya/Data-Science/blob/main/Functions_%26_Methods.ipynb
 10. production_grade_programming : https://github.com/DeviArya/Data-Science/blob/main/production_grade_programming.ipynb
-11. Competetive_Coding_I : https://github.com/DeviArya/Data-Science/blob/main/Competetive_Coding_I.ipynb
-12. 
-
+11. Time_and_Space_Complexity : https://github.com/DeviArya/Data-Science/blob/main/Time_and_Space_Complexity.ipynb
 
 
 ### Assignment 
@@ -31,9 +29,9 @@ In this repository I will upload data science contents and assignments
 7. Assignment_Solution_List_Comprehension : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_List_Comprehension.ipynb
 8. Assignment_Solution_Functions_and_Methods : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Functions_and_Methods.ipynb
 9. Assignment_Solution_Production_Grade_Programming_I : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Production_Grade_Programming_I.ipynb
-10. 
-
-
+10. Competetive_Coding_I : https://github.com/DeviArya/Data-Science/blob/main/Competetive_Coding_I.ipynb
+11. Competetive_Coding_I_Solution : https://github.com/DeviArya/Data-Science/blob/main/Competetive_Coding_I_Solution.ipynb
+12. Assignment_Solution_Time_and_Space_Complexity : https://github.com/DeviArya/Data-Science/blob/main/Assignment_Solution_Time_and_Space_Complexity.ipynb
 
 
 ### Project 
@@ -41,6 +39,9 @@ In this repository I will upload data science contents and assignments
 1. Guided_Project_Dream_Premier_League : https://github.com/DeviArya/Data-Science/blob/main/Guided_Project_Dream_Premier_League.ipynb
 2. Guided_Project_Solution_Dream_Premier_League : https://github.com/DeviArya/Data-Science/blob/main/Guided_Project_Solution_Dream_Premier_League.ipynb
 3. Self_Project_Solution_Decoding_Aliens : https://github.com/DeviArya/Data-Science/blob/main/Self_Project_Solution_Decoding_Aliens.ipynb
+4. guided_project_solution_intersection_of_lists : https://github.com/DeviArya/Data-Science/blob/main/guided_project_solution_intersection_of_lists.ipynb
+5. Guided_Project_Solution_Intersection_of_Lists : https://github.com/DeviArya/Data-Science/blob/main/Guided_Project_Solution_Intersection_of_Lists.ipynb
+6. Self_Project_Solution_Functions : https://github.com/DeviArya/Data-Science/blob/main/Self_Project_Solution_Functions.ipynb
 
 
 
