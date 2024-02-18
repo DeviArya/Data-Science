@@ -44,6 +44,7 @@ In this repository I will upload data science contents and assignments
 6. Self_Project_Solution_Functions : https://github.com/DeviArya/Data-Science/blob/main/Self_Project_Solution_Functions.ipynb
 
 
+### Practice Questions
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -70,3 +71,7 @@ ________________________________________________________________________________
 
 
 
+
+### Practice Questions
+1. NUMPY_PRACTICE : https://github.com/DeviArya/Data-Science/blob/main/NUMPY_PRACTICE_.ipynb
+2.
